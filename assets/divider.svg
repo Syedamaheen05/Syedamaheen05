@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="16" viewBox="0 0 1200 16" role="img" aria-label="Animated blue purple teal gradient divider">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#2563eb"/><stop offset="50%" stop-color="#a855f7"/><stop offset="100%" stop-color="#14b8a6"/></linearGradient></defs>
+<rect x="0" y="6" width="1200" height="4" rx="2" fill="url(#g)"><animate attributeName="opacity" values=".55;1;.55" dur="3s" repeatCount="indefinite"/></rect>
+</svg>

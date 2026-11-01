@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Animated gradient banner for Syyeda Maheen Bukhari">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#1d4ed8"><animate attributeName="stop-color" values="#1d4ed8;#6d28d9;#0f766e;#1d4ed8" dur="12s" repeatCount="indefinite"/></stop>
+<stop offset="100%" stop-color="#0f766e"><animate attributeName="stop-color" values="#0f766e;#1d4ed8;#6d28d9;#0f766e" dur="12s" repeatCount="indefinite"/></stop>
+</linearGradient></defs>
+<rect width="1200" height="300" rx="28" fill="#0b1220"/>
+<rect x="5" y="5" width="1190" height="290" rx="25" fill="url(#bg)" opacity=".35"/>
+<circle cx="1060" cy="60" r="115" fill="#a78bfa" opacity=".12"><animate attributeName="r" values="105;125;105" dur="7s" repeatCount="indefinite"/></circle>
+<path d="M0 230 C260 170 390 310 650 220 S1000 150 1200 205" fill="none" stroke="#5eead4" stroke-width="2" stroke-dasharray="12 10"><animate attributeName="stroke-dashoffset" from="0" to="-88" dur="5s" repeatCount="indefinite"/></path>
+<text x="600" y="125" text-anchor="middle" fill="#fff" font-family="system-ui, sans-serif" font-size="48" font-weight="700">Syyeda Maheen Bukhari</text>
+<text x="600" y="169" text-anchor="middle" fill="#dbeafe" font-family="system-ui, sans-serif" font-size="21">GitHub · Syedamaheen05</text>
+<text x="600" y="211" text-anchor="middle" fill="#c4b5fd" font-family="system-ui, sans-serif" font-size="16">[Add your professional title and tech stack]</text>
+<rect x="420" y="242" width="360" height="3" rx="2" fill="#a78bfa"/>
+</svg>
