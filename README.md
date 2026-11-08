@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Syyeda Maheen Bukhari — IT graduate and web development learner" width="100%">
+<img src="banner.svg" alt="Syyeda Maheen Bukhari — IT graduate and web development learner" width="100%">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Syedamaheen05-181717?style=for-the-badge&logo=github)](https://github.com/Syedamaheen05)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syeda-maheen-bukhari-5a5009406/)
@@ -10,17 +10,17 @@
 
 </div>
 
-<img src="assets/divider.svg" alt="Animated gradient divider" width="100%">
+<img src="divider.svg" alt="Animated gradient divider" width="100%">
 
-<img src="assets/section-about.svg" alt="About Me" width="100%">
+<img src="section-about.svg" alt="About Me" width="100%">
 
 I'm **Syyeda Maheen Bukhari**, a BS Information Technology graduate (2020–2024) interested in web development and software engineering. I work with frontend and backend technologies, databases, and development tools, and continue strengthening my skills through practical projects.
 
 I am also part of the **PSEB Web Engineering Bootcamp**, where I am developing my technical skills through hands-on learning.
 
-<img src="assets/divider.svg" alt="Animated gradient divider" width="100%">
+<img src="divider.svg" alt="Animated gradient divider" width="100%">
 
-<img src="assets/section-projects.svg" alt="What I've Worked On" width="100%">
+<img src="section-projects.svg" alt="What I've Worked On" width="100%">
 
 ### School Management System
 A project listed in my portfolio. Further description and technology details have not yet been provided.
@@ -33,9 +33,9 @@ A project listed in my portfolio. Further description and technology details hav
 - [Python Loops — Electricity Bill Calculator](https://github.com/Syedamaheen05/python-loops-electricity-bill-calculator)
 - [Python Conditionals — Smart Canteen](https://github.com/Syedamaheen05/python-conditionals-smart-canteen)
 
-<img src="assets/divider.svg" alt="Animated gradient divider" width="100%">
+<img src="divider.svg" alt="Animated gradient divider" width="100%">
 
-<img src="assets/section-stack.svg" alt="Tech Stack" width="100%">
+<img src="section-stack.svg" alt="Tech Stack" width="100%">
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -71,16 +71,16 @@ A project listed in my portfolio. Further description and technology details hav
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-<img src="assets/divider.svg" alt="Animated gradient divider" width="100%">
+<img src="divider.svg" alt="Animated gradient divider" width="100%">
 
-<img src="assets/section-education.svg" alt="Education and Learning" width="100%">
+<img src="section-education.svg" alt="Education and Learning" width="100%">
 
 - **BS Information Technology** — 2020–2024
 - **PSEB Web Engineering Bootcamp** — currently listed as a learning program; dates not provided.
 
-<img src="assets/divider.svg" alt="Animated gradient divider" width="100%">
+<img src="divider.svg" alt="Animated gradient divider" width="100%">
 
-<img src="assets/section-stats.svg" alt="GitHub Stats" width="100%">
+<img src="section-stats.svg" alt="GitHub Stats" width="100%">
 
 <div align="center">
 
@@ -89,11 +89,11 @@ A project listed in my portfolio. Further description and technology details hav
 
 </div>
 
-<img src="assets/highlights.svg" alt="Profile highlights: five public Python repositories, one other listed project, one degree and four years of study" width="100%">
+<img src="highlights.svg" alt="Profile highlights: five public Python repositories, one other listed project, one degree and four years of study" width="100%">
 
-<img src="assets/divider.svg" alt="Animated gradient divider" width="100%">
+<img src="divider.svg" alt="Animated gradient divider" width="100%">
 
-<img src="assets/section-connect.svg" alt="Let's Connect" width="100%">
+<img src="section-connect.svg" alt="Let's Connect" width="100%">
 
 <div align="center">
 
