@@ -1,93 +1,109 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Syyeda Maheen Bukhari GitHub profile banner" width="100%">
-
-# Syyeda Maheen Bukhari
-
-**[Add your professional title here]**
-
-[Add a short one-line introduction here.]
+<img src="assets/banner.svg" alt="Syyeda Maheen Bukhari — IT graduate and web development learner" width="100%">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Syedamaheen05-181717?style=for-the-badge&logo=github)](https://github.com/Syedamaheen05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syeda-maheen-bukhari-5a5009406/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheenbukhari224@gmail.com)
+
+**IT Graduate | Web Development & Python**
 
 </div>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="assets/divider.svg" alt="Animated gradient divider" width="100%">
 
-## About Me
+<img src="assets/section-about.svg" alt="About Me" width="100%">
 
-<!-- Add what you're working on, learning, interests, and opportunities you're looking for. -->
+I'm **Syyeda Maheen Bukhari**, a BS Information Technology graduate (2020–2024) interested in web development and software engineering. I work with frontend and backend technologies, databases, and development tools, and continue strengthening my skills through practical projects.
 
-## Experience
+I am also part of the **PSEB Web Engineering Bootcamp**, where I am developing my technical skills through hands-on learning.
 
-<!-- Add roles if applicable; remove this section if you have none to include. -->
-| Role | Organization | Dates | Highlights |
-|---|---|---|---|
-| <!-- Role --> | <!-- Organization --> | <!-- From–to --> | <!-- Contributions --> |
+<img src="assets/divider.svg" alt="Animated gradient divider" width="100%">
 
-## Career Timeline
+<img src="assets/section-projects.svg" alt="What I've Worked On" width="100%">
 
-<!-- Optional: add career or education milestones. Remove if not needed. -->
+### School Management System
+A project listed in my portfolio. Further description and technology details have not yet been provided.
 
-## What I've Worked On / Projects
+### Python projects
 
-<!-- Add projects, descriptions, technologies, and public links. -->
-### Project Name
-- **Description:** <!-- What it does -->
-- **Tech:** <!-- Technologies used -->
-- **Link:** <!-- Repository or live demo -->
+- [Python Functions & Lists Assessment](https://github.com/Syedamaheen05/python-functions-lists-assessment)
+- [Practice Python Functions and Strings](https://github.com/Syedamaheen05/practice-python-function-and-strings)
+- [Python Conditions & Loops Assessment](https://github.com/Syedamaheen05/python-condition-loops-assessment)
+- [Python Loops — Electricity Bill Calculator](https://github.com/Syedamaheen05/python-loops-electricity-bill-calculator)
+- [Python Conditionals — Smart Canteen](https://github.com/Syedamaheen05/python-conditionals-smart-canteen)
 
-<img src="assets/section-tech-stack.svg" alt="Tech Stack section" width="100%">
+<img src="assets/divider.svg" alt="Animated gradient divider" width="100%">
 
-**Backend**
+<img src="assets/section-stack.svg" alt="Tech Stack" width="100%">
 
-<!-- Add badges here. -->
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-**Frontend**
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-<!-- Add badges here. -->
+### Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-**Cloud & DevOps**
+### Databases
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-<!-- Add badges here. -->
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-**Databases**
+<img src="assets/divider.svg" alt="Animated gradient divider" width="100%">
 
-<!-- Add badges here. -->
+<img src="assets/section-education.svg" alt="Education and Learning" width="100%">
 
-**Tools**
+- **BS Information Technology** — 2020–2024
+- **PSEB Web Engineering Bootcamp** — currently listed as a learning program; dates not provided.
 
-<!-- Add badges here. -->
+<img src="assets/divider.svg" alt="Animated gradient divider" width="100%">
 
-## Core Competencies
-
-| Area | Competencies |
-|---|---|
-| <!-- Area --> | <!-- Skills or strengths --> |
-
-## Education & Certifications
-
-<!-- Add degrees, institutions, dates, and verified certifications. -->
-
-<img src="assets/highlights.svg" alt="Editable profile highlight cards" width="100%">
-
-## GitHub Stats
+<img src="assets/section-stats.svg" alt="GitHub Stats" width="100%">
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syedamaheen05&show_icons=true&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Syedamaheen05&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Syedamaheen05&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub profile statistics">
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Syedamaheen05&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
 
 </div>
 
-## Let's Connect
+<img src="assets/highlights.svg" alt="Profile highlights: five public Python repositories, one other listed project, one degree and four years of study" width="100%">
 
-<!-- Add only contact details you explicitly want to make public. -->
-- **GitHub:** [@Syedamaheen05](https://github.com/Syedamaheen05)
-- **LinkedIn:** <!-- Add your URL -->
-- **Portfolio:** <!-- Add your URL -->
+<img src="assets/divider.svg" alt="Animated gradient divider" width="100%">
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="assets/section-connect.svg" alt="Let's Connect" width="100%">
 
-<div align="center">*Thanks for visiting my profile!*</div>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syyeda_Maheen_Bukhari-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syeda-maheen-bukhari-5a5009406/)
+[![Email](https://img.shields.io/badge/Email-maheenbukhari224%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheenbukhari224@gmail.com)
+
+</div>
+
+<div align="center">
+
+*Thanks for visiting my profile!*
+
+</div>
