@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="66" viewBox="0 0 900 66" role="img" aria-label="Education &amp; Learning section header">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2563eb"/><stop offset=".55" stop-color="#7c3aed"/><stop offset="1" stop-color="#0d9488"/></linearGradient></defs>
+  <rect x="1" y="1" width="898" height="64" rx="14" fill="#101827" stroke="#334155"/>
+  <rect x="1" y="1" width="5" height="64" rx="3" fill="url(#g)"/>
+  <text x="24" y="39" fill="#f8fafc" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="20" font-weight="700">Education &amp; Learning</text>
+</svg>
